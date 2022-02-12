@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Simple project  React app using hooks (useState, useContext, useReducer) and the context API.
+
 ## Available Scripts
 
 In the project directory, you can run:
